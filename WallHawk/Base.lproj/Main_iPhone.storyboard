@@ -421,10 +421,10 @@
     <resources>
         <image name="Logo.png" width="190" height="138"/>
         <image name="btn_login2.png" width="190" height="67"/>
-        <image name="btn_myProfile.png" width="32" height="32"/>
-        <image name="btn_myVideo.png" width="41" height="27"/>
+        <image name="btn_myProfile.png" width="30" height="30"/>
+        <image name="btn_myVideo.png" width="35" height="26"/>
         <image name="btn_siginup2.png" width="190" height="67"/>
-        <image name="btn_takeVideo.png" width="95" height="42"/>
+        <image name="btn_takeVideo.png" width="190" height="85"/>
         <image name="logo_header.png" width="190" height="32"/>
         <image name="txt_online.png" width="190" height="13"/>
     </resources>

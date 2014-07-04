@@ -50,6 +50,7 @@
 		CFF164F919664F6600296399 /* logo_header.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF164F019664F6600296399 /* logo_header.png */; };
 		CFF164FA19664F6600296399 /* txt_online.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF164F119664F6600296399 /* txt_online.png */; };
 		CFF164FD19666B0300296399 /* MainPanelNavigationControllerHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = CFF164FC19666B0300296399 /* MainPanelNavigationControllerHeaderView.m */; };
+		CFF165061966C12600296399 /* Logo_s.png in Resources */ = {isa = PBXBuildFile; fileRef = CFF165051966C12500296399 /* Logo_s.png */; };
 		CFF51D8819615870002D2111 /* MainTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFF51D8719615870002D2111 /* MainTabViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -124,6 +125,7 @@
 		CFF164F119664F6600296399 /* txt_online.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = txt_online.png; sourceTree = "<group>"; };
 		CFF164FB19666B0300296399 /* MainPanelNavigationControllerHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainPanelNavigationControllerHeaderView.h; sourceTree = "<group>"; };
 		CFF164FC19666B0300296399 /* MainPanelNavigationControllerHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainPanelNavigationControllerHeaderView.m; sourceTree = "<group>"; };
+		CFF165051966C12500296399 /* Logo_s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo_s.png; sourceTree = "<group>"; };
 		CFF51D8619615870002D2111 /* MainTabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainTabViewController.h; path = ../MainTabViewController.h; sourceTree = "<group>"; };
 		CFF51D8719615870002D2111 /* MainTabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainTabViewController.m; path = ../MainTabViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -329,6 +331,7 @@
 				CFF164ED19664F6600296399 /* btn_takeVideo.png */,
 				CFF164EE19664F6600296399 /* demo_thumbnail.png */,
 				CFF164EF19664F6600296399 /* Logo.png */,
+				CFF165051966C12500296399 /* Logo_s.png */,
 				CFF164F019664F6600296399 /* logo_header.png */,
 				CFF164F119664F6600296399 /* txt_online.png */,
 			);
@@ -439,6 +442,7 @@
 				CF0CE4D8195AEB0C007302A8 /* PopUpViewController_iPad.xib in Resources */,
 				CF0CE4D7195AEB0C007302A8 /* PopUpViewController.xib in Resources */,
 				CF08BE771957C79A0044C514 /* InfoPlist.strings in Resources */,
+				CFF165061966C12600296399 /* Logo_s.png in Resources */,
 				CFF164F719664F6600296399 /* demo_thumbnail.png in Resources */,
 				CFF164F619664F6600296399 /* btn_takeVideo.png in Resources */,
 				CF08BEAC19581CA30044C514 /* TextInputCell.xib in Resources */,
